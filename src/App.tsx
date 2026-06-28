@@ -1,10 +1,10 @@
-import './App.css'
+import './index.css'
 
 function App() {
 
   return (
     <>
-     oopa, como estamos?
+     Cha de panela Juliiane Buss
     </>
   )
 }
